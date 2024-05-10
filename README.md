@@ -1,2 +1,4 @@
 # Multi-Agent-Systems
-这是对基于大模型的多智能体系统论文的总结
+## Agent
+
+- Agent Instructs Large Language Models to be General Zero-Shot Reasoners (**arXiv 2024**) [[paper]](https://arxiv.org/pdf/2310.03710)[[code]( https://github.com/wang-research-lab/agentinstruct)]
