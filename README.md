@@ -68,7 +68,12 @@
 - AgentBench: Evaluating LLMs as Agents (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2308.03688)] [[code](https://github.com/THUDM/AgentBench)]
 - MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
 
-
+## 综述Survey
+- Understanding the planning of LLM agents: A survey
+- A Survey on Large Language Model based Autonomous Agents
+- AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION
+- The Rise and Potential of Large Language Model Based Agents: A Survey
+- Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives
 
 
 
