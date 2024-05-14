@@ -57,7 +57,7 @@
 - AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation  (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2308.08155)] [[code](https://github.com/qingyun-wu/autogen-eval/tree/main)]
 - AutoAgents: A Framework for Automatic Agent Generation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 
-## 评测
+## 评测/datasets
 
 - LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models  (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2310.03903 )] [[code](https://github.com/eric-ai-lab/llm_coordination)]
 - MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration  (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2311.08562 )] [[code](https://github.com/cathyxl/MAgIC)]
