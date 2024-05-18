@@ -19,7 +19,8 @@
 - SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series   (**ICLR 2024**) [[paper](https://openreview.net/pdf?id=s9z0HzWJJp)] [[code](https://github.com/chengjunyan1/SocioDojo)]
 - Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2306.07863)] [[code](https://github.com/ltzheng/Synapse)]
 - DiLu: A Knowledge-Driven Approach to Autonomous Driving With Large Language Models  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2309.16292)] [[code](https://github.com/PJLab-ADG/DiLu)]
-
+- LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration (**arXiv 2024**) [[paper](https://arxiv.longhoe.net/abs/2402.11550)] [[code](https://github.com/PJLab-ADG/DiLu)]
+- On Generative Agents in Recommendation (**arXiv 2023**) [[paper](http://arxiv.org/abs/2310.10108)] 
 ### Agent Tuning/训练/纠错等
 
 - CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models  (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2404.01663 )] [[code](https://github.com/heimy2000/CMAT)]
@@ -42,7 +43,9 @@
 - Experiential Co-Learning of Software-Developing Agents  (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2312.17025)] 
 - SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems  (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2401.03945)] [[code](https://github.com/0nutation/SpeechAgents)]
 - Generative Agents: Interactive Simulacra of Human Behavior (**UIST 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)] [[code](https://github.com/joonspk-research/generative_agents)]
-
+- ProAgent: Building Proactive Cooperative Agents with Large Language Models (**AAAI 2024**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29710)] [[code](https://github.com/PKU-Alignment/ProAgent)]
+- Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach (**arxiv 2023**) [[paper](https://arxiv.org/abs/2311.13884v3)]
+- 
 ### 社会模拟框架/任务解决框架
 
 - MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge  (**EML 2024**) [[paper](https://arxiv.org/pdf/2311.08166)] [[code](https://github.com/camel-ai/camel)]
@@ -56,7 +59,9 @@
 - ChemCrow: Augmenting large-language models with chemistry tools  (**NeurIPS 2023**) [[paper](https://arxiv.org/pdf/2304.05376)]] [[code](https://github.com/ur-whitelab/chemcrow-public)]
 - AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation  (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2308.08155)] [[code](https://github.com/qingyun-wu/autogen-eval/tree/main)]
 - AutoAgents: A Framework for Automatic Agent Generation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
-
+- Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents (**arXiv 2024**) [[paper](https://arxiv.org/abs/2405.02957)] 
+- Player-Driven Emergence in LLM-Driven Game Narrative (**arXiv 2024**) [[paper](https://arxiv.org/abs/2404.17027)] 
+- Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework (**arXiv 2024**) [[paper](http://arxiv.org/abs/2405.04294)] [[code](https://github.com/elricwan/Audit)]
 ## 评测/datasets
 
 - LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models  (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2310.03903 )] [[code](https://github.com/eric-ai-lab/llm_coordination)]
@@ -67,13 +72,14 @@
 - Large Language Models as Rational Players in Competitive Economics Game  (**arXiv 2024**) [[paper](https://openreview.net/pdf?id=NMPLBbjYFq)]
 - AgentBench: Evaluating LLMs as Agents (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2308.03688)] [[code](https://github.com/THUDM/AgentBench)]
 - MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
-
+- LARGE LANGUAGE MODEL EVALUATION VIA MULTI AI AGENTS: PRELIMINARY RESULTS  (**ICLR 2024**) [[paper](https://arxiv.longhoe.net/abs/2404.01023)]
 ## 综述Survey
-- Understanding the planning of LLM agents: A survey
-- A Survey on Large Language Model based Autonomous Agents
-- AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION
-- The Rise and Potential of Large Language Model Based Agents: A Survey
-- Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives
+- Understanding the planning of LLM agents: A survey (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2402.02716)] 
+- A Survey on Large Language Model based Autonomous Agents (**Front. Comput. Sci. 2024**) [[paper](https://arxiv.org/pdf/2308.11432)] [[code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
+- AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2401.03568)] 
+- The Rise and Potential of Large Language Model Based Agents: A Survey (**ICML 2024**) [[paper](https://arxiv.org/pdf/2309.07864)] [[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+- Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2312.11970)] 
+
 
 
 
