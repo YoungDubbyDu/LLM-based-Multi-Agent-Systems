@@ -79,7 +79,6 @@
 - AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2401.03568)] 
 - The Rise and Potential of Large Language Model Based Agents: A Survey (**ICML 2024**) [[paper](https://arxiv.org/pdf/2309.07864)] [[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 - Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2312.11970)] 
-- Understanding the planning of LLM agents: A survey (**arXiv 2024**) [[paper](http://arxiv.org/abs/2402.02716)] 
 
 
 
