@@ -20,7 +20,8 @@
 - Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2306.07863)] [[code](https://github.com/ltzheng/Synapse)]
 - DiLu: A Knowledge-Driven Approach to Autonomous Driving With Large Language Models  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2309.16292)] [[code](https://github.com/PJLab-ADG/DiLu)]
 - LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration (**arXiv 2024**) [[paper](https://arxiv.longhoe.net/abs/2402.11550)] [[code](https://github.com/PJLab-ADG/DiLu)]
-- On Generative Agents in Recommendation (**arXiv 2023**) [[paper](http://arxiv.org/abs/2310.10108)] 
+- On Generative Agents in Recommendation (**arXiv 2023**) [[paper](http://arxiv.org/abs/2310.10108)]
+- Understanding the planning of LLM agents: A survey (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2402.02716)] 
 ### Agent Tuning/训练/纠错等
 
 - CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models  (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2404.01663 )] [[code](https://github.com/heimy2000/CMAT)]
