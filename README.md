@@ -74,11 +74,11 @@
 - Large Language Models as Rational Players in Competitive Economics Game  (**arXiv 2024**) [[paper](https://openreview.net/pdf?id=NMPLBbjYFq)]
 - AgentBench: Evaluating LLMs as Agents (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2308.03688)] [[code](https://github.com/THUDM/AgentBench)]
 - MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework  (**ICLR 2024**) [[paper](https://arxiv.org/pdf/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
-- LARGE LANGUAGE MODEL EVALUATION VIA MULTI AI AGENTS: PRELIMINARY RESULTS  (**ICLR 2024**) [[paper](https://arxiv.longhoe.net/abs/2404.01023)]
+- Large Language Model Evaluation Via Multi AI Agents: Preliminary results  (**ICLR 2024**) [[paper](https://arxiv.longhoe.net/abs/2404.01023)]
 ## 综述Survey
 - Understanding the planning of LLM agents: A survey (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2402.02716)] 
 - A Survey on Large Language Model based Autonomous Agents (**Front. Comput. Sci. 2024**) [[paper](https://arxiv.org/pdf/2308.11432)] [[code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
-- AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2401.03568)] 
+- Agent AI: Surveying the Horizons of Multimodal Interaction (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2401.03568)] 
 - The Rise and Potential of Large Language Model Based Agents: A Survey (**ICML 2024**) [[paper](https://arxiv.org/pdf/2309.07864)] [[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 - Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2312.11970)]
 - LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions (**arXiv 2024**) [[paper](http://arxiv.org/abs/2405.11106)] 
