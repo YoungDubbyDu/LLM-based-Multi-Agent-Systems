@@ -4,7 +4,7 @@
 
 ### 记忆模块/认知结构/推理能力等
 
-- Agent Instructs Large Language Models to be General Zero-Shot Reasoners (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2310.03710)] [[code](] https://github.com/wang-research-lab/agentinstruct)]
+- Agent Instructs Large Language Models to be General Zero-Shot Reasoners (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2310.03710)] [[code] (https://github.com/wang-research-lab/agentinstruct)]
 - OKR-Agent: An Object and Key Results Driven Agent System with Hierarchical Self-Collaboration and Self-Evaluation (**arXiv 2023**) [[paper](https://arxiv.org/pdf/2311.16542)] 
 - MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2402.01620)] [[code](https://github.com/dinobby/MAGDi)]
 - Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration (**NAACL 2024**) [[paper](https://export.arxiv.org/pdf/2307.05300)] [[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting.git)]
